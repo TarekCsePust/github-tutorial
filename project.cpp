@@ -7,8 +7,9 @@ int sum(int x,int y){
     return x+y;
 }
 
-int abstract(int a,int b){
-    return a-b;
+int multiply(int a,int b)
+{
+    return x*y;
 }
 
 int main(){
