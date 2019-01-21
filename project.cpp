@@ -7,6 +7,11 @@ int sum(int x,int y){
     return x+y;
 }
 
+int multiply(int a,int b)
+{
+    return x*y;
+}
+
 int main(){
  int a,b,c;
  a  = 10;
